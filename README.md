@@ -1,2 +1,2 @@
-# colwall
+# ColWall
 Social Network for colleges
